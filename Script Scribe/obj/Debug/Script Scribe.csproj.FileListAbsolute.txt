@@ -1,0 +1,9 @@
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\bin\Debug\Script Scribe.exe.config
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\bin\Debug\Script Scribe.exe
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\bin\Debug\Script Scribe.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\obj\Debug\Script Scribe.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\obj\Debug\Script_Scribe.Properties.Resources.resources
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\obj\Debug\Script Scribe.csproj.GenerateResource.Cache
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\obj\Debug\Script Scribe.exe
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\obj\Debug\Script Scribe.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\Script Scribe\Script Scribe\obj\Debug\Script_Scribe.Form1.resources

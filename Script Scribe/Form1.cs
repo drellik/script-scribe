@@ -12,6 +12,8 @@ namespace Script_Scribe
 {
     public partial class Form1 : Form
     {
+        private enum Flow { plot, character, speaking};
+        Flow currentFlow = Flow.plot;
         public Form1()
         {
             InitializeComponent();
@@ -22,9 +24,18 @@ namespace Script_Scribe
             Application.Exit();
         }
 
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        private void richTextBox1_PreviewKeyDown_1(object sender, PreviewKeyDownEventArgs e)
         {
-             
+            if (e.KeyData == Keys.Tab && currentFlow == Flow.plot)
+            {
+                richTextBox1.SelectionAlignment = HorizontalAlignment.Center;
+                currentFlow = Flow.character;
+            }
+            else if (e.KeyData == Keys.Tab && currentFlow == Flow.character)
+            {
+                richTextBox1.SelectionAlignment = HorizontalAlignment.Left;
+                currentFlow = Flow.plot;
+            }
         }
     }
 }

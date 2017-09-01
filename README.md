@@ -17,6 +17,6 @@ Action - Press enter twice from dialog and you will be back to typing action and
 
 Parenthetical Direction - When you are in dialog mode, if you press tab, you will be able to type direction in parenthesis.
 
-**Contribute**
+**Contribute:**
 I look forward to contributions to this project.
 It is written in C# with Visual Studio Community 2015
